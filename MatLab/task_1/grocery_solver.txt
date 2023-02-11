@@ -1,0 +1,9 @@
+How many kilograms of the first grocery would you like to buy?
+1
+How many kilograms of the second grocery would you like to buy?
+1.5
+How much price of the first bigger than the second product?
+3
+What is the total price?
+8
+Answer: [A=5.00,B=2.00] €/kg>> 

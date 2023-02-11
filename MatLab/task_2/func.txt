@@ -1,0 +1,7 @@
+>> func
+>> 
+
+NB!
+
+All code does is show plot, you will see intended output on your pc when
+you will run the code itself.

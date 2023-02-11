@@ -1,0 +1,3 @@
+>> factorial
+Number for factorial total of numbers not divisible by 2 and 3: 100
+   1633
